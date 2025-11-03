@@ -1,0 +1,4 @@
+portfolio_id,portfolio_name,cash_balance,owner_name,created_date,total_value
+PORT001,Main Trading Portfolio,25000.00,John Doe,2024-01-15,125487.65
+PORT002,Long Term Investment,50000.00,John Doe,2024-01-15,234567.89
+PORT003,Retirement Fund,15000.00,John Doe,2024-01-15,456789.12
